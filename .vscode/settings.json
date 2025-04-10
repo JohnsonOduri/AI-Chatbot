@@ -1,0 +1,20 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.base.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.controls.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.web.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.swing.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/jdk.jsobject.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.graphics.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.media.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx-swt.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/jfx.incubator.input.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/jfx.incubator.richtext.jar",
+    "/Users/johnsonoduri/Coding/Java/javafx-sdk-24/lib/javafx.fxml.jar"
+  ],
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

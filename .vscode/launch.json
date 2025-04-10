@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Chatbot",
+      "request": "launch",
+      "mainClass": "com.aichatbot.App",
+      "vmArgs": "--module-path \"/Users/johnsonoduri/Coding/Java/Java Projects/AIChatbot/javafx-sdk-21.0.6/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base -Djava.library.path=\"${workspaceFolder}/javafx-sdk-21.0.6/lib\" -Dprism.order=sw -Dprism.verbose=true"
+    }
+  ]
+}
